@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Madison 👋
 
-<!--
-**Madison-Twiggs/Madison-Twiggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance and compliance professional based in Stockholm, transitioning into Data Analytics and AI Ethics.
 
-Here are some ideas to get you started:
+Currently working through:
+--> CS50P (HarvardX) - Python
+--> Lund University - AI Ethics
+--> SQL Foundations (next)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in the accountability gap in automated decision-making - particularly in employment, financial services, and gendered impacts of AI systems. 
+
+📍 Stockholm, SE
+🔗 [LinkedIn] (https://www.linkedin.com/in/madison-twiggs-9806a33b8)
+
